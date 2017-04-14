@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:30:35 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487928633525
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:2.5.6 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/org/springframework/spring-beans/2.5.6/spring-beans-2.5.6.jar. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487928635693
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487928632528
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

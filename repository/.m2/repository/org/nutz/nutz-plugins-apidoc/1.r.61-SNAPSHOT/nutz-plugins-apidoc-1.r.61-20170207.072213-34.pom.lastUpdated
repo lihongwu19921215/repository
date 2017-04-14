@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 08 10:47:29 CST 2017
+https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1486522049131
+https\://jfrog.nutz.cn/artifactory/jcenter/.error=Could not transfer artifact org.nutz\:nutz-plugins-apidoc\:pom\:1.r.61-20170207.072213-34 from/to nutz (https\://jfrog.nutz.cn/artifactory/jcenter)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/jcenter/org/nutz/nutz-plugins-apidoc/1.r.61-SNAPSHOT/nutz-plugins-apidoc-1.r.61-20170207.072213-34.pom. Error code 409, Conflict
+@default-nutz-https\://jfrog.nutz.cn/artifactory/jcenter/.lastUpdated=1486522048572

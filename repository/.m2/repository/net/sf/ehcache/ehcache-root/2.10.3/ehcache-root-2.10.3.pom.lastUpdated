@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 27 10:13:54 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1488161634069
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact net.sf.ehcache\:ehcache-root\:pom\:2.10.3 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/net/sf/ehcache/ehcache-root/2.10.3/ehcache-root-2.10.3.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488161634630

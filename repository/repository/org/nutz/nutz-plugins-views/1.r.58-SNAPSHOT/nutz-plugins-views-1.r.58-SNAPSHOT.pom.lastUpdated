@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 18 13:45:56 CST 2016
+@default-Nexus2-http\://123.56.146.87\:8081/nexus/content/groups/public/.lastUpdated=1471499156877
+http\://123.56.146.87\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.nutz\:nutz-plugins-views\:pom\:1.r.58-SNAPSHOT from/to Nexus2 (http\://123.56.146.87\:8081/nexus/content/groups/public)\: Connection refused\: connect

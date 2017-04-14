@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 06 15:48:15 CST 2016
+@default-Nexus2-http\://123.56.146.87\:8081/nexus/content/groups/public/.lastUpdated=1473148095566
+http\://123.56.146.87\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.sonatype.sisu.inject\:cglib\:pom\:2.2.1-v20090111 from/to Nexus2 (http\://123.56.146.87\:8081/nexus/content/groups/public)\: No connector factories available

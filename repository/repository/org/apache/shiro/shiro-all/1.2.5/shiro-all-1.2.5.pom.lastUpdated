@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 27 10:34:10 CST 2016
+@default-Nexus2-http\://123.56.146.87\:8081/nexus/content/groups/public/.lastUpdated=1469586850206
+http\://123.56.146.87\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.shiro\:shiro-all\:pom\:1.2.5 from/to Nexus2 (http\://123.56.146.87\:8081/nexus/content/groups/public)\: Connection refused\: connect

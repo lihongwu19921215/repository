@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 22 13:55:59 CST 2016
+javax.mail-1.5.2.jar>*=
+javax.mail-1.5.2.pom>kerbores\ nexus=
+javax.mail-1.5.2.jar>kerbores\ nexus=
+javax.mail-1.5.2.pom>*=
+javax.mail-1.5.2.jar>central=
+javax.mail-1.5.2.jar>abc=
+javax.mail-1.5.2.pom>central=

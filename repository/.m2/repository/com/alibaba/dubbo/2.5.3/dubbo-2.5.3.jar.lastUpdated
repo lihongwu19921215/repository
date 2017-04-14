@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:49:20 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487929752988
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact com.alibaba\:dubbo\:jar\:2.5.3 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487929760080

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 08 10:42:12 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1486521732273
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.jetty.aggregate\:jetty-all\:jar\:9.2.20.v20161216 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

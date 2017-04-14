@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:29:06 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487928546461
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact commons-collections\:commons-collections\:pom\:3.2.2 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487928546932
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487928546110
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.nutz</groupId>
+  <artifactId>nutzmore</artifactId>
+  <version>1.r.58-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160816.080008</timestamp>
+      <buildNumber>53</buildNumber>
+    </snapshot>
+    <lastUpdated>20160816080008</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.r.58-20160816.080008-53</value>
+        <updated>20160816080008</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

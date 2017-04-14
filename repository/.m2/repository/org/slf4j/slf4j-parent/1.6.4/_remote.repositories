@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 19 10:01:09 CST 2016
+slf4j-parent-1.6.4.pom>*=
+slf4j-parent-1.6.4.pom>central=
+slf4j-parent-1.6.4.pom>kerbores\ nexus=

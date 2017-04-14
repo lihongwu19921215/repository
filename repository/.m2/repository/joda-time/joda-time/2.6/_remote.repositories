@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:48:37 CST 2017
+joda-time-2.6.jar>central=
+joda-time-2.6.pom>central=
+joda-time-2.6.jar>*=
+joda-time-2.6.pom>*=

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 07 08:23:23 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1491524603852
+@default-sonatype-snapshots-https\://oss.sonatype.org/content/groups/jetty/.lastUpdated=1486521732295
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact javax.websocket\:javax.websocket-api\:jar\:1.0 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/javax/websocket/javax.websocket-api/1.0/javax.websocket-api-1.0.jar. Error code 409, Conflict
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1486521732278
+https\://oss.sonatype.org/content/groups/jetty/.error=Could not transfer artifact javax.websocket\:javax.websocket-api\:jar\:1.0 from/to sonatype-snapshots (https\://oss.sonatype.org/content/groups/jetty)\: The operation was cancelled.
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.websocket\:javax.websocket-api\:jar\:1.0 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

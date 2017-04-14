@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 05 09:47:20 CST 2016
+qiniu-java-sdk-7.1.0.jar>abc=
+qiniu-java-sdk-7.1.0.jar>*=
+qiniu-java-sdk-7.1.0.pom>*=
+qiniu-java-sdk-7.1.0.jar>kerbores\ nexus=
+qiniu-java-sdk-7.1.0.pom>kerbores\ nexus=
+qiniu-java-sdk-7.1.0.pom>abc=

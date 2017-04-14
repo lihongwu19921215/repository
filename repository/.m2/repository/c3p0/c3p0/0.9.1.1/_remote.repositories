@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 19 10:09:04 CST 2016
+c3p0-0.9.1.1.jar>kerbores\ nexus=
+c3p0-0.9.1.1.pom>central=
+c3p0-0.9.1.1.jar>*=
+c3p0-0.9.1.1.pom>kerbores\ nexus=
+c3p0-0.9.1.1.pom>*=
+c3p0-0.9.1.1.jar>central=

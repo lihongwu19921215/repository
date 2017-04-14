@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 30 11:02:47 CST 2016
+guava-19.0.jar>abc=
+guava-19.0.jar>central=
+guava-19.0.pom>*=
+guava-19.0.pom>central=
+guava-19.0.jar>kerbores\ nexus=
+guava-19.0.pom>kerbores\ nexus=
+guava-19.0.pom>abc=
+guava-19.0.jar>*=

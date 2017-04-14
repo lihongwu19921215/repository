@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:34:42 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487928882198
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact org.springframework.boot\:spring-boot-autoconfigure\:pom\:1.5.1.RELEASE from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487928882665
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487928881845
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

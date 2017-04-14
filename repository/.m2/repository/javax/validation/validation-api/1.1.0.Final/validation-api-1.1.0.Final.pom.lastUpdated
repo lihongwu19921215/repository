@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:35:43 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487928942607
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact javax.validation\:validation-api\:pom\:1.1.0.Final from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487928943065
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487928942282
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

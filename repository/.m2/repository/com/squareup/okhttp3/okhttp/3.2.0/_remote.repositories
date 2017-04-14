@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 05 09:47:20 CST 2016
+okhttp-3.2.0.jar>*=
+okhttp-3.2.0.jar>abc=
+okhttp-3.2.0.pom>*=
+okhttp-3.2.0.jar>kerbores\ nexus=
+okhttp-3.2.0.pom>kerbores\ nexus=
+okhttp-3.2.0.pom>abc=

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 30 11:02:49 CST 2016
+ehcache-core-2.5.3.jar>central=
+ehcache-core-2.5.3.pom>central=
+ehcache-core-2.5.3.jar>*=
+ehcache-core-2.5.3.pom>abc=
+ehcache-core-2.5.3.pom>*=
+ehcache-core-2.5.3.jar>abc=

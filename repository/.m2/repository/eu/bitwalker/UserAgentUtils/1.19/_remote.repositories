@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 05 09:47:20 CST 2016
+UserAgentUtils-1.19.jar>*=
+UserAgentUtils-1.19.jar>kerbores\ nexus=
+UserAgentUtils-1.19.pom>kerbores\ nexus=
+UserAgentUtils-1.19.pom>*=
+UserAgentUtils-1.19.pom>abc=
+UserAgentUtils-1.19.jar>abc=

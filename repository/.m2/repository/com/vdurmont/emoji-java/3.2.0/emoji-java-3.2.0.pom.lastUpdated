@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 07 08:25:07 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1491524707550
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact com.vdurmont\:emoji-java\:pom\:3.2.0 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/com/vdurmont/emoji-java/3.2.0/emoji-java-3.2.0.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1491524707996

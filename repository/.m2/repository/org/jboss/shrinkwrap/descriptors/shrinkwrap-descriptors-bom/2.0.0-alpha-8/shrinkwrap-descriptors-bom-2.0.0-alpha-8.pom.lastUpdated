@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:35:37 CST 2017
+http\://repo.spring.io/ext-release-local/.error=
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact org.jboss.shrinkwrap.descriptors\:shrinkwrap-descriptors-bom\:pom\:2.0.0-alpha-8 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-8/shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom. Error code 409, Conflict
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487928935685
+http\://repo.spring.io/snapshot/.lastUpdated=1487928936792
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/ext-release-local/.lastUpdated=1487928936043
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487928935355
+http\://repo.spring.io/milestone/.lastUpdated=1487928936428
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487928937646

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 10:21:10 CST 2016
+pdfbox-2.0.3.jar>abc=
+pdfbox-2.0.3.jar>*=
+pdfbox-2.0.3.pom>*=
+pdfbox-2.0.3.pom>abc=

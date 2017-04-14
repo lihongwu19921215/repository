@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 08 09:54:34 CST 2016
+commons-logging-1.2.jar>kerbores\ nexus=
+commons-logging-1.2.jar>*=
+commons-logging-1.2.jar>abc=
+commons-logging-1.2.jar>central=
+commons-logging-1.2.pom>central=

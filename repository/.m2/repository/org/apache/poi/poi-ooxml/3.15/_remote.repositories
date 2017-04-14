@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:52:53 CST 2017
+poi-ooxml-3.15.jar>*=
+poi-ooxml-3.15.jar>central=
+poi-ooxml-3.15.pom>*=
+poi-ooxml-3.15.pom>central=
+poi-ooxml-3.15.pom>abc=
+poi-ooxml-3.15.jar>abc=

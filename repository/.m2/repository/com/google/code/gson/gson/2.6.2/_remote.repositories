@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 30 11:02:47 CST 2016
+gson-2.6.2.jar>abc=
+gson-2.6.2.jar>*=
+gson-2.6.2.jar>central=
+gson-2.6.2.pom>*=
+gson-2.6.2.jar>kerbores\ nexus=
+gson-2.6.2.pom>kerbores\ nexus=
+gson-2.6.2.pom>abc=
+gson-2.6.2.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:48:38 CST 2017
+jcl-over-slf4j-1.7.6.pom>central=
+jcl-over-slf4j-1.7.6.pom>*=
+jcl-over-slf4j-1.7.6.jar>central=
+jcl-over-slf4j-1.7.6.jar>*=

@@ -1,0 +1,39 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.jsr107.ri</groupId>
+        <artifactId>cache-ri</artifactId>
+        <version>1.0.0</version>
+    </parent>
+    <artifactId>cache-annotations-ri</artifactId>
+    <packaging>pom</packaging>
+
+    <name>JSR107 Annotations RI</name>
+
+    <modules>
+        <module>cache-annotations-ri-cdi</module>
+        <module>cache-annotations-ri-common</module>
+        <module>cache-annotations-ri-spring</module>
+        <module>cache-annotations-ri-guice</module>
+    </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.atlassian.maven.plugins</groupId>
+                <artifactId>maven-clover2-plugin</artifactId>
+                <version>3.2.0</version>
+                <configuration>
+                    <cloverDatabase>${java.io.tmpdir}/clover/clover.db
+                    </cloverDatabase>
+                    <singleCloverDatabase>true</singleCloverDatabase>
+                    <instrumentation>method</instrumentation>
+                    <includesTestSourceRoots>false</includesTestSourceRoots>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

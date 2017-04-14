@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 24 11:49:41 CST 2016
+@default-Nexus2-http\://123.56.146.87\:8081/nexus/content/groups/public/.lastUpdated=1458791381605
+http\://123.56.146.87\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.dgj.nutz\:velocity\:pom\:${dgj.version} from/to Nexus2 (http\://123.56.146.87\:8081/nexus/content/groups/public)\: Illegal character in path at index 77\: http\://123.56.146.87\:8081/nexus/content/groups/public/com/dgj/nutz/velocity/${dgj.version}/velocity-${dgj.version}.pom

@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:50:56 CST 2017
+druid-1.0.23.jar>central=
+druid-1.0.23.pom>central=
+druid-1.0.23-sources.jar>central=
+druid-1.0.23.pom>*=
+druid-1.0.23.pom>kerbores\ nexus=
+druid-1.0.23.jar>kerbores\ nexus=
+druid-1.0.23.pom>abc=

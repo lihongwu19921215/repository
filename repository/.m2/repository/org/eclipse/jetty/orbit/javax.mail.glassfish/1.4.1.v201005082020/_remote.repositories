@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 10:21:10 CST 2016
+javax.mail.glassfish-1.4.1.v201005082020.jar>*=
+javax.mail.glassfish-1.4.1.v201005082020.pom>*=
+javax.mail.glassfish-1.4.1.v201005082020.pom>abc=
+javax.mail.glassfish-1.4.1.v201005082020.jar>abc=

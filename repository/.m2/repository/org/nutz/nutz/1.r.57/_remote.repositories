@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 19 10:01:00 CST 2016
+nutz-1.r.57.jar>kerbores\ nexus=
+nutz-1.r.57.pom>kerbores\ nexus=
+nutz-1.r.57.jar>*=
+nutz-1.r.57.pom>central=
+nutz-1.r.57.pom>*=
+nutz-1.r.57-sources.jar>kerbores\ nexus=

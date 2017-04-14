@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 18 18:41:43 CST 2016
+http\://maven.kerbores.com/nexus/content/groups/public/.error=Could not transfer artifact com.alibaba\:druid\:jar\:sources\:1.0.23 from/to kerbores nexus (http\://maven.kerbores.com/nexus/content/groups/public)\: Software caused connection abort\: recv failed
+https\://repo.maven.apache.org/maven2/.lastUpdated=1471516903090
+@default-kerbores\ nexus-http\://maven.kerbores.com/nexus/content/groups/public/.lastUpdated=1471516856000

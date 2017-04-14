@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 05 09:47:20 CST 2016
+beetl-2.3.2.jar>abc=
+beetl-2.3.2-sources.jar>*=
+beetl-2.3.2.jar>*=
+beetl-2.3.2.pom>abc=
+beetl-2.3.2.pom>*=

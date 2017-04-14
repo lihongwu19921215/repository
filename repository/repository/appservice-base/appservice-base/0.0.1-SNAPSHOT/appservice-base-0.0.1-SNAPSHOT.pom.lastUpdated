@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 12 10:32:32 CST 2016
+@default-Nexus2-http\://123.56.146.87\:8081/nexus/content/groups/public/.lastUpdated=1481509952783
+http\://123.56.146.87\:8081/nexus/content/groups/public/.error=Could not transfer artifact appservice-base\:appservice-base\:pom\:0.0.1-SNAPSHOT from/to Nexus2 (http\://123.56.146.87\:8081/nexus/content/groups/public)\: Connection refused\: connect

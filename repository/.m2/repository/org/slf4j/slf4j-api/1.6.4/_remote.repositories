@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 18 10:58:10 CST 2016
+slf4j-api-1.6.4.jar>abc=
+slf4j-api-1.6.4.jar>central=
+slf4j-api-1.6.4.pom>*=
+slf4j-api-1.6.4.pom>central=
+slf4j-api-1.6.4.pom>kerbores\ nexus=
+slf4j-api-1.6.4.jar>kerbores\ nexus=
+slf4j-api-1.6.4.jar>*=

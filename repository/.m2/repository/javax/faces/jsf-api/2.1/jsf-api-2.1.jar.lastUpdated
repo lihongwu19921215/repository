@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:49:06 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487929745174
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact javax.faces\:jsf-api\:jar\:2.1 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/javax/faces/jsf-api/2.1/jsf-api-2.1.jar. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487929746472

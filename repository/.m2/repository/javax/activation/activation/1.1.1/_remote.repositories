@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 19 10:09:11 CST 2016
+activation-1.1.1.jar>*=
+activation-1.1.1.jar>central=
+activation-1.1.1.pom>*=
+activation-1.1.1.pom>central=
+activation-1.1.1.jar>kerbores\ nexus=
+activation-1.1.1.pom>kerbores\ nexus=

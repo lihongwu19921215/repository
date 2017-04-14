@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:51:01 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487929860982
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:pom\:2.6.1 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/com/google/protobuf/protobuf-java/2.6.1/protobuf-java-2.6.1.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487929861455

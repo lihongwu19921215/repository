@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:52:19 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487929939289
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact org.apache.poi\:ooxml-schemas\:pom\:1.3 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/org/apache/poi/ooxml-schemas/1.3/ooxml-schemas-1.3.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487929939741

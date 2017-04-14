@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:34:52 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487928891649
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:pom\:1.7.22 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/org/slf4j/jcl-over-slf4j/1.7.22/jcl-over-slf4j-1.7.22.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487928892106
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487928891284
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

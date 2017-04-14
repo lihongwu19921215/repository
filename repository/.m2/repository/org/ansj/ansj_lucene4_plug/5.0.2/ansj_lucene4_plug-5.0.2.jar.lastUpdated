@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 22 13:56:08 CST 2016
+http\://maven.nutz.cn/nexus/content/repositories/thirdparty/.error=Could not transfer artifact org.ansj\:ansj_lucene4_plug\:jar\:5.0.2 from/to nexus-nutzcn-thirdparty (http\://maven.nutz.cn/nexus/content/repositories/thirdparty)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1474523768780
+@default-nexus-nutzcn-thirdparty-http\://maven.nutz.cn/nexus/content/repositories/thirdparty/.lastUpdated=1474522621555

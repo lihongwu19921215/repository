@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:48:17 CST 2017
+jcommander-1.27.jar>abc=
+jcommander-1.27.jar>central=
+jcommander-1.27.jar>*=
+jcommander-1.27.pom>central=
+jcommander-1.27.pom>*=
+jcommander-1.27.pom>abc=

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 19 10:09:13 CST 2016
+org.abego.treelayout.core-1.0.1.jar>central=
+org.abego.treelayout.core-1.0.1.jar>*=
+org.abego.treelayout.core-1.0.1.pom>central=
+org.abego.treelayout.core-1.0.1.pom>*=
+org.abego.treelayout.core-1.0.1.jar>kerbores\ nexus=
+org.abego.treelayout.core-1.0.1.pom>kerbores\ nexus=

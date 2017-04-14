@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 19 10:09:13 CST 2016
+antlr4-runtime-4.2.jar>central=
+antlr4-runtime-4.2.jar>kerbores\ nexus=
+antlr4-runtime-4.2.pom>kerbores\ nexus=
+antlr4-runtime-4.2.pom>*=
+antlr4-runtime-4.2.pom>central=
+antlr4-runtime-4.2.jar>*=

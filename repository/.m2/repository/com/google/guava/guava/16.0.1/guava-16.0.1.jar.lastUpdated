@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:51:15 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487929867045
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact com.google.guava\:guava\:jar\:16.0.1 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/com/google/guava/guava/16.0.1/guava-16.0.1.jar. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487929875698

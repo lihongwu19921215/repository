@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:32:29 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487928749149
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact org.springframework.data.build\:spring-data-build\:pom\:1.9.0.RELEASE from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/org/springframework/data/build/spring-data-build/1.9.0.RELEASE/spring-data-build-1.9.0.RELEASE.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487928749611
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487928748795
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

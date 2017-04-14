@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 09 11:53:19 CST 2017
+https\://jfrog.nutz.cn/artifactory/jcenter/.lastUpdated=1489031599921
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1486521732293
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.7.22 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

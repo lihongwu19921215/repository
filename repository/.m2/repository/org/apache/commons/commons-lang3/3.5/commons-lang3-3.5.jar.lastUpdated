@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:30:00 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487928593698
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:jar\:3.5 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487928600042
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487928591912
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

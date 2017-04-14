@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.nutz</groupId>
+  <artifactId>nutz</artifactId>
+  <version>1.r.59-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161009.095633</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20161009095633</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.r.59-20161009.095633-4</value>
+        <updated>20161009095633</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.r.59-20161009.095633-4</value>
+        <updated>20161009095633</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.r.59-20161009.095633-4</value>
+        <updated>20161009095633</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

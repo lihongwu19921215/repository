@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 27 10:13:17 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1488161587567
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact org.nutz\:nutz-plugins-daocache\:pom\:1.r.60 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/org/nutz/nutz-plugins-daocache/1.r.60/nutz-plugins-daocache-1.r.60.pom. Error code 409, Conflict
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1488161597586
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.nutz\:nutz-plugins-daocache\:pom\:1.r.60 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

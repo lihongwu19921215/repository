@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:49:29 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487929769482
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact jboss\:javassist\:pom\:3.7.ga from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/jboss/javassist/3.7.ga/javassist-3.7.ga.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487929769944

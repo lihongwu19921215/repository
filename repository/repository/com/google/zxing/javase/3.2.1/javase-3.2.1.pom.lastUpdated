@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 27 10:34:02 CST 2016
+@default-Nexus2-http\://123.56.146.87\:8081/nexus/content/groups/public/.lastUpdated=1469586842751
+http\://123.56.146.87\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.google.zxing\:javase\:pom\:3.2.1 from/to Nexus2 (http\://123.56.146.87\:8081/nexus/content/groups/public)\: Connection refused\: connect

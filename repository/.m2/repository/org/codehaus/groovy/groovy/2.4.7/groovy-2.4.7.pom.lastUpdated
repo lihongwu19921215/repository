@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:27:17 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487928437113
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact org.codehaus.groovy\:groovy\:pom\:2.4.7 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/org/codehaus/groovy/groovy/2.4.7/groovy-2.4.7.pom. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487928437575
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487928436758
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

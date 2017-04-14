@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 08 10:48:15 CST 2017
+okhttp-3.3.1.pom>abc=
+okhttp-3.3.1.pom>nutz=
+okhttp-3.3.1.jar>*=
+okhttp-3.3.1.jar>nutz=
+okhttp-3.3.1.jar>abc=
+okhttp-3.3.1.pom>*=

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 18 10:58:07 CST 2016
+druid-1.0.18.pom>*=
+druid-1.0.18.jar>central=
+druid-1.0.18.pom>abc=
+druid-1.0.18.pom>central=
+druid-1.0.18.jar>*=
+druid-1.0.18.jar>abc=

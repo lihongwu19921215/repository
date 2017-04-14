@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 18 10:58:10 CST 2016
+shiro-web-1.2.3.jar>central=
+shiro-web-1.2.3.pom>*=
+shiro-web-1.2.3.pom>central=
+shiro-web-1.2.3.pom>kerbores\ nexus=
+shiro-web-1.2.3.jar>kerbores\ nexus=
+shiro-web-1.2.3.jar>abc=
+shiro-web-1.2.3.jar>*=

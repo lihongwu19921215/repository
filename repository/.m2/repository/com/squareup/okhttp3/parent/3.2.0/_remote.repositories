@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 05 09:46:35 CST 2016
+parent-3.2.0.pom>abc=
+parent-3.2.0.pom>*=
+parent-3.2.0.pom>kerbores\ nexus=

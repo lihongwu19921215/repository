@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 10:21:10 CST 2016
+titans-2.0.3.jar>*=
+titans-2.0.3.pom>*=
+titans-2.0.3.pom>abc=
+titans-2.0.3.jar>abc=

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 12 10:19:03 CST 2016
+@default-loc-http\://123.56.146.87\:8081/nexus/content/groups/public/.lastUpdated=1481509143761
+http\://123.56.146.87\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.archetypes\:maven-archetype-quickstart\:jar\:1.1 from/to loc (http\://123.56.146.87\:8081/nexus/content/groups/public)\: Connection refused\: connect

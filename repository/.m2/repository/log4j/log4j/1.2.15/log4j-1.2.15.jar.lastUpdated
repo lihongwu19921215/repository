@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 17:51:28 CST 2017
+@default-nutzcn-snapshots-https\://jfrog.nutz.cn/artifactory/snapshots/.lastUpdated=1487929888199
+https\://jfrog.nutz.cn/artifactory/snapshots/.error=Could not transfer artifact log4j\:log4j\:jar\:1.2.15 from/to nutzcn-snapshots (https\://jfrog.nutz.cn/artifactory/snapshots)\: Failed to transfer https\://jfrog.nutz.cn/artifactory/snapshots/log4j/log4j/1.2.15/log4j-1.2.15.jar. Error code 409, Conflict
+https\://repo.maven.apache.org/maven2/.lastUpdated=1487929888979
